@@ -1,5 +1,5 @@
 <h3 align="center">
-    <img alt="Logo" title="#logo" width="400px" src="/print/logo.png">
+    <img alt="Logo" title="#logo" width="400px" src="print/logo.png">
     <br><br>
     <br>
 </h3>
@@ -23,14 +23,14 @@ Um aplicativo que tem as funcionalidade de <strong>Login</strong>, <strong>Lista
 <br>
 
 <h3 align="center">
-    <img alt="SignIn" title="#logo" width="400px" src="/print/signIn.png">
-    <img alt="SignUp" title="#logo" width="400px" src="/print/signUp.png">
+    <img alt="SignIn" title="#logo" width="400px" src="print/signIn.png">
+    <img alt="SignUp" title="#logo" width="400px" src="print/signUp.png">
       <br><br>
-    <img alt="Home" title="#logo" width="400px" src="/print/home.png">
-    <img alt="Search" title="#logo" width="400px" src="/print/search.png">
+    <img alt="Home" title="#logo" width="400px" src="print/home.png">
+    <img alt="Search" title="#logo" width="400px" src="print/search.png">
       <br><br>
-    <img alt="Profile" title="#logo" width="400px" src="/print/profile.png">
-    <img alt="Detail Enterprise" title="#logo" width="400px" src="/print/detailenterprise.png">
+    <img alt="Profile" title="#logo" width="400px" src="print/profile.png">
+    <img alt="Detail Enterprise" title="#logo" width="400px" src="print/detailenterprise.png">
       <br><br>
 </h3>
 

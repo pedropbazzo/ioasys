@@ -30,7 +30,7 @@ const Profile = () => {
 
   useEffect(() => {
     async function loadInvestor() {
-      if (investor.id === undefined) {
+      if (investor.id === 0) {
         setIsLoading(false);
       } else {
         setIsLoading(true);

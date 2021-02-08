@@ -1,5 +1,5 @@
 <h3 align="center">
-    <img alt="Logo" title="#logo" width="400px" src="https://bitbucket.org/pedropbazzo/empresas-react-native/raw/82ed4af97acf3fa80c666d65a2ae3d6a6eee7f97/print/logo.png">
+    <img alt="Logo" title="#logo" width="400px" src="print/logo.png">
     <br><br>
     <br>
 </h3>
@@ -23,14 +23,14 @@ Um aplicativo que tem as funcionalidade de <strong>Login</strong>, <strong>Lista
 <br>
 
 <h3 align="center">
-    <img alt="SignIn" title="#logo" width="400px" src="https://bitbucket.org/pedropbazzo/empresas-react-native/raw/82ed4af97acf3fa80c666d65a2ae3d6a6eee7f97/print/signIn.png">
-    <img alt="SignUp" title="#logo" width="400px" src="https://bitbucket.org/pedropbazzo/empresas-react-native/raw/82ed4af97acf3fa80c666d65a2ae3d6a6eee7f97/print/signUp.png">
+    <img alt="SignIn" title="#logo" width="400px" src="print/signIn.png">
+    <img alt="SignUp" title="#logo" width="400px" src="print/signUp.png">
       <br><br>
-    <img alt="Home" title="#logo" width="400px" src="https://bitbucket.org/pedropbazzo/empresas-react-native/raw/82ed4af97acf3fa80c666d65a2ae3d6a6eee7f97/print/home.png">
-    <img alt="Search" title="#logo" width="400px" src="https://bitbucket.org/pedropbazzo/empresas-react-native/raw/82ed4af97acf3fa80c666d65a2ae3d6a6eee7f97/print/search.png">
+    <img alt="Home" title="#logo" width="400px" src="print/home.png">
+    <img alt="Search" title="#logo" width="400px" src="print/search.png">
       <br><br>
-    <img alt="Profile" title="#logo" width="400px" src="https://bitbucket.org/pedropbazzo/empresas-react-native/raw/82ed4af97acf3fa80c666d65a2ae3d6a6eee7f97/print/profile.png">
-    <img alt="Detail Enterprise" title="#logo" width="400px" src="https://bitbucket.org/pedropbazzo/empresas-react-native/raw/82ed4af97acf3fa80c666d65a2ae3d6a6eee7f97/print/detailenterprise.png">
+    <img alt="Profile" title="#logo" width="400px" src="print/profile.png">
+    <img alt="Detail Enterprise" title="#logo" width="400px" src="print/detailenterprise.png">
       <br><br>
 </h3>
 
@@ -89,7 +89,5 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
   $ cd nome da pasta
   $ npm start ou yarn android
 ```
-
-## :memo: License
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
